@@ -29,6 +29,30 @@ THEN all the comments persist on the page.
 ## Technologies
 This application is written in HTML, CSS, and JavaScript.  It uses bootstrap for the form components.  It also uses the following JavaScript packages: Express, Sqlite3, and Jest for testing.
 
+## Future Development
+For future development, I would like to do the following:
+
+* Add a delete button on each comment to remove them.  Make sure to ask the user if they are sure they want to delete the comment
+
+* Add an edit button for each comment to change the content of the message only.  This can also modify the date on the comment.
+
+* Add a delete all button near the top of the page.  Again make sure to ask the user if they are sure they want to remove all comments.  This can take advantage of the given 
+delete route.
+
+* Add a footer to give credit to the developer :)
+
+* If more content were to be added, I would implement React to handle components, state, etc..
+
+* Implement real-time updating without refreshing the page.
+
+* Filtering to find comments by a specific user
+
+* Filtering to find comments by a created date.
+
+* Make the page look a little prettier with some fancy CSS :)
+
+* Finish a jest test for the creation of a comment.
+
 ## Review
 To review the code, please go to the [Repository](https://github.com/jstndhouk/CommentsPage).
 
