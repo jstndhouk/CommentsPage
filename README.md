@@ -57,7 +57,7 @@ delete route.
 To review the code, please go to the [Repository](https://github.com/jstndhouk/CommentsPage).
 
 ## Deploy
-With some changes to the file directory, I could deploy this to GitHub pages.  I kept the directory as is.
+With some changes to the file directory, I could deploy this to GitHub pages or Heroku.  I kept the directory as is.
 
 ## Mock-Up
 To review a demo of my application,  click the following link: [Comment Feed Demo](https://watch.screencastify.com/v/25054irdEjL9I3f9RWHo).
