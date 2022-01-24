@@ -29,6 +29,8 @@ THEN all the comments persist on the page.
 ## Technologies
 This application is written in HTML, CSS, and JavaScript.  It uses bootstrap for the form components.  It also uses the following JavaScript packages: Express, Sqlite3, and Jest for testing.
 
+The color pallet used can be found here: https://colorhunt.co/palette/96ceb4ffeeadd9534fffad60
+
 ## Future Development
 For future development, I would like to do the following:
 
@@ -52,6 +54,10 @@ delete route.
 * Make the page look a little prettier with some fancy CSS :)
 
 * Finish a jest test for the creation of a comment.
+
+* Error Handling:  Giving the user an alert if either the name or the message are not entered.
+
+* Creating a log-in which would take a username and password (that would both be validated, and the password encrypted) so that a user can get emails when comments are posted.
 
 ## Review
 To review the code, please go to the [Repository](https://github.com/jstndhouk/CommentsPage).

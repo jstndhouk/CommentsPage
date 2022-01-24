@@ -1,6 +1,5 @@
 var submitbutton = document.getElementById('submitbtn');
 var body = document.body;
-
 //This function gets all the comments to display on the page at the time of page load.
 const getComments = () => {
     fetch('/getComments', {
